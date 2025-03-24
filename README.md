@@ -1,7 +1,7 @@
-# 🚗 US Accident Data Analysis - Exploratory Data Analysis (EDA)
+# 🚗 US Accident Data Analysis - EDA & Accident Severity Prediction
 
 ## 📌 Overview  
-This project performs an **Exploratory Data Analysis (EDA)** on the **US Accident Dataset** sourced from Kaggle. The goal is to extract insights into accident trends across different states, weather conditions, time of occurrence, and other contributing factors.  
+This project performs an **Exploratory Data Analysis (EDA)** on the **US Accident Dataset** sourced from Kaggle. The goal is to extract insights into accident trends across different states, weather conditions, time of occurrence, and Built a Machine Learning model to predict accident severity based on weather, road conditions, and time of occurrence. 
 
 The dataset contains information on accidents recorded in the United States, helping to analyze key accident patterns and their causes.
 
@@ -31,6 +31,12 @@ To run the notebook online, click the link below:
 ✔ **Severity Analysis** - Determines factors contributing to severe accidents.  
 ✔ **Geographical Analysis** - Maps accident hotspots in the U.S.  
 ✔ **Weather Impact** - Analyzes how rain, fog, and temperature influence accidents.  
+
+✔ **Identified high-risk accident zones and peak accident hours.**
+
+✔ **Explored impact of weather and road conditions on accident severity.**
+
+✔ **Built an ML model with 80% accuracy to predict accident severity levels.**
 
 ---
 
